@@ -2,13 +2,11 @@
 📔 인터파크 OpenAPI와 retrofit, roomDB를 사용하여 만든 도서리뷰앱 📔
 
 ## 개발환경
-
 * OS : windows 10 pro
 * IDE : Android Studio
 * Language : Kotlin
 
 ## 사용한 기능 (몰랐거나 새로운 부분은 블로그 [today's study](https://velog.io/@heymoko/Todays-study-%EB%A7%A4%EC%9D%BC%EB%A7%A4%EC%9D%BC-%EA%B8%B0%EB%A1%9D%ED%95%98%EA%B8%B0)에 정리)
-
 * roomDB
 * retrofit
 * postman 
